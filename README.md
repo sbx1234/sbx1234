@@ -1,90 +1,28 @@
-# ¡Hola! Soy Tati
+# ¡Hola! Soy Tatiana Yucailla 👋
 
-### 💻 Estudiante de Ingeniería de Software
+### 🚀 Sobre mí
+- 🎓 Actualmente estudio **Ingeniería de Software** en la UTA.
+- 💻 Me interesa el desarrollo web, de software y la programación.
+- 📚 Estoy aprendiendo continuamente nuevas tecnologías y herramientas.
+- 🚀 Siempre busco mejorar mis conocimientos y desarrollar nuevos proyectos.
 
-Soy estudiante de Ingeniería de Software en la Universidad Técnica de Ambato (UTA), Ecuador.
+### 🛠️ Tecnologías y herramientas
+*(Aquí están tus lenguajes con sus colores oficiales)*
 
-Me interesa el desarrollo de aplicaciones, la programación y la creación de soluciones tecnológicas. Actualmente estoy fortaleciendo mis conocimientos mediante proyectos académicos y prácticas de programación.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## 👩‍💻 Sobre mí
-
-- 🎓 Estudiante de Ingeniería de Software.
-- 🌎 Ambato, Ecuador.
-- 💡 Interesada en el desarrollo web y de software.
-- 📚 Siempre aprendiendo nuevas tecnologías.
-- 🚀 En constante crecimiento profesional.
-
-## 🛠️ Tecnologías y herramientas
-
-**Lenguajes y desarrollo web**
-
-- Java
-- JavaScript
-- PHP
-- HTML
-- CSS
-
-**Bases de datos**
-
-- MySQL
-- SQL Server
-- Oracle
-
-**Frameworks y herramientas**
-
-- React
-- Vite
-- Git
-- GitHub
-- NetBeans
-- Visual Studio Code
-
-  
-## Proyectos académicos
-
-He participado en proyectos desarrollados en equipo, aplicando conocimientos de programación, desarrollo frontend y backend, bases de datos y trabajo colaborativo.
-
-### 🛒 Tiendi – Sistema de gestión de inventario y ventas
-
-Sistema web orientado a la administración de pequeños negocios.
-
-**Mi participación: Desarrollo del módulo de estadísticas**
-
-- Implementación de servicios y consultas para obtener estadísticas del negocio.
-- Consulta del total y cantidad de ventas.
-- Identificación de los productos más vendidos.
-- Agrupación de ventas por fecha.
-- Desarrollo de la interfaz de estadísticas mediante tarjetas, tablas y gráficos.
-- Integración de los datos del backend con el frontend.
-
-**Tecnologías:** C#, ASP.NET Core Web API, HTML, CSS, JavaScript y SQL Server.
-
-🔗 [Ver proyecto en GitHub](https://github.com/JuanFull1/Tiendi)
-
-### 🚌 EcuaRutas – Sistema de gestión y venta de pasajes
-
-Sistema web orientado a la gestión de transporte interprovincial y venta de pasajes.
-
-**Mi participación: Desarrollo de módulos de pagos y gestión de clientes**
-
-- Implementación de funcionalidades para depósitos y transferencias.
-- Gestión de carga y validación de comprobantes de pago.
-- Manejo de estados de pago.
-- Desarrollo de funcionalidades para consultar destinos y frecuencias.
-- Implementación del historial de compras y visualización de boletos.
-- Desarrollo de notificaciones relacionadas con compras, pagos y cambios de viaje.
-
-**Tecnologías:** C#, ASP.NET Core, Angular y base de datos del proyecto.
-
-🔗 [Ver proyecto en GitHub](https://github.com/JuanFull1/EcuaRutas)
-
----
-
-
-## 🎯 Mis objetivos
-
-Seguir desarrollando mis habilidades de programación, participar en proyectos tecnológicos y crecer como profesional en el área de Ingeniería de Software.
-
----
-
-⭐ ¡Gracias por visitar mi perfil!
+### 📫 ¿Cómo contactarme?
+- 🌐 **Mi Portafolio Web:** [sbx1234.github.io](https://sbx1234.github.io)
+- 📧 **Correo:** [yucaillaevelin511@gmail.com](mailto:yucaillaevelin511@gmail.com)
+- 📍 **Ubicación:** Ambato, Ecuador
